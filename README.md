@@ -1,8 +1,8 @@
 # Digital-Clock
 Digital-Clock using HTML,CSS and JAVASCRIPT
 
-To see live use the following link:
-[digitalclock2](https://shiny-cobbler-6b6137.netlify.app)
+To see live click here:
+[digitalclock](https://shiny-cobbler-6b6137.netlify.app)
 1. below is the mage before i hover the clock
 <img width="960" alt="digitalclock1" src="https://user-images.githubusercontent.com/87131895/179673076-f02c6dae-624c-47dd-b8e3-1d6a428e5352.PNG">
 
